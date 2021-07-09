@@ -54,7 +54,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/audio\/Elysee_piano_v1.mp3"
+                 "value":"src\/assets\/audio\/Elysee_piano_v1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"assets\/audio\/Elysee_mars_test.mp3"
+                 "value":"src\/assets\/audio\/Elysee_mars_test.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/audio\/111491__soundathon__piano-improvb-1-2-2011-part1.ogg"
+                 "value":"src\/assets\/audio\/111491__soundathon__piano-improvb-1-2-2011-part1.ogg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -577,7 +577,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"assets\/outdoor\/base_out_atlas.png",
+         "image":"src\/assets\/outdoor\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -590,7 +590,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"assets\/outdoor\/build_atlas.png",
+         "image":"src\/assets\/outdoor\/build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -603,7 +603,7 @@
         {
          "columns":32,
          "firstgid":2049,
-         "image":"assets\/items\/items_misc_atlas.png",
+         "image":"src\/assets\/items\/items_misc_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -616,7 +616,7 @@
         {
          "columns":32,
          "firstgid":3073,
-         "image":"assets\/indoor\/Interior.png",
+         "image":"src\/assets\/indoor\/Interior.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -639,7 +639,7 @@
         {
          "columns":16,
          "firstgid":4097,
-         "image":"assets\/indoor\/lpc-furniture.png",
+         "image":"src\/assets\/indoor\/lpc-furniture.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -652,7 +652,7 @@
         {
          "columns":16,
          "firstgid":4609,
-         "image":"assets\/indoor\/dark-wood-furniture.png",
+         "image":"src\/assets\/indoor\/dark-wood-furniture.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -665,7 +665,7 @@
         {
          "columns":32,
          "firstgid":5121,
-         "image":"assets\/outdoor\/Terrain-and-Outside.png",
+         "image":"src\/assets\/outdoor\/Terrain-and-Outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -678,7 +678,7 @@
         {
          "columns":3,
          "firstgid":6145,
-         "image":"assets\/outdoor\/signs.png",
+         "image":"src\/assets\/outdoor\/signs.png",
          "imageheight":160,
          "imagewidth":96,
          "margin":0,
@@ -691,7 +691,7 @@
         {
          "columns":17,
          "firstgid":6160,
-         "image":"assets\/others\/LPC-farming-signs.png",
+         "image":"src\/assets\/others\/LPC-farming-signs.png",
          "imageheight":320,
          "imagewidth":544,
          "margin":0,
@@ -704,7 +704,7 @@
         {
          "columns":6,
          "firstgid":6330,
-         "image":"assets\/watileset.png",
+         "image":"src\/assets\/watileset.png",
          "imageheight":512,
          "imagewidth":192,
          "margin":0,
@@ -727,7 +727,7 @@
         {
          "columns":8,
          "firstgid":6426,
-         "image":"assets\/outdoor\/LPC-arabic.png",
+         "image":"src\/assets\/outdoor\/LPC-arabic.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -740,7 +740,7 @@
         {
          "columns":2,
          "firstgid":6522,
-         "image":"assets\/icons.png",
+         "image":"src\/assets\/icons.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -753,7 +753,7 @@
         {
          "columns":12,
          "firstgid":6528,
-         "image":"assets\/celiana-neonsigns.png",
+         "image":"src\/assets\/celiana-neonsigns.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
