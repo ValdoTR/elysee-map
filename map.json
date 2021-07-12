@@ -624,12 +624,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Level Design: Jako https:\/\/mapwa.net\/static\/ \nhttps:\/\/opengameart.org\/content\/lpc-collection \n https:\/\/freesound.org\/people\/soundathon\/sounds\/111491\/"
+         "value":"Mapping: Jako https:\/\/mapwa.net\/static\/ \nTilesets: https:\/\/opengameart.org\/content\/lpc-collection \nSound Effect: https:\/\/freesound.org\/people\/soundathon\/sounds\/111491\/"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"\u00c9lys\u00e9e in France"
+         "value":"Are you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. Oh right there look!\n\nWell he's gone ... You should take the opportunity to organize an original meeting with your colleagues!"
         }, 
         {
          "name":"mapImage",
@@ -639,12 +639,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/mapwa.net\/static\/"
+         "value":"https:\/\/valdotr.github.io\/meetup-elysee\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"map.json"
+         "value":"\u00c9lys\u00e9e"
         }, 
         {
          "name":"script",
