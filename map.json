@@ -629,7 +629,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Are you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. Oh right there look!\n\nWell he's gone ... You should take the opportunity to organize an original meeting with your colleagues!"
+         "value":"Suitable for up to 150 users.\n\nYes, we are a French Startup, and Yes French people love France! To celebrate the Marsellaise everyday, we have this map for you!"
         }, 
         {
          "name":"mapImage",
@@ -652,7 +652,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
