@@ -629,7 +629,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Are you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. Oh right there look!\n\nWell he's gone ... You should take the opportunity to organize an original meeting with your colleagues!"
+         "value":"Suitable for up to 25 users.\n\nAre you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. You should take the opportunity to organize an original meeting with your colleagues inside the Élysée Palace!"
         }, 
         {
          "name":"mapImage",
@@ -644,7 +644,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"\u00c9lys\u00e9e"
+         "value":"Élysée Palace"
         }, 
         {
          "name":"script",
