@@ -629,7 +629,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable for up to 50 users.\n\nYes, we are a French Startup, and Yes French people love France!\nAre you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. You should take the opportunity to organize an original meeting with your colleagues inside the Élysée Palace!"
+         "value":"Suitable for up to 50 users.\n\nYes, we are a French Startup, and Yes French people love France!\nAre you passing through Paris? Want to write to the president? No need to write him a letter, he's in the next room. You should take the opportunity to organize an original meeting with your colleagues inside the \u00c9lys\u00e9e Palace!"
         }, 
         {
          "name":"mapImage",
@@ -644,7 +644,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Élysée Palace"
+         "value":"\u00c9lys\u00e9e Palace"
         }, 
         {
          "name":"script",
@@ -652,7 +652,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -843,7 +843,7 @@
          "tilecount":96,
          "tileheight":32,
          "tilewidth":32
-        },
+        }, 
         {
          "columns":1,
          "firstgid":6624,
@@ -856,7 +856,7 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
-        },
+        }, 
         {
          "columns":2,
          "firstgid":6625,
