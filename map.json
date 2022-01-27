@@ -761,12 +761,17 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"\u00c9lys\u00e9e Palace"
+         "value":"We love France"
         }, 
         {
          "name":"script",
          "type":"string",
          "value":"script.js"
+        }, 
+        {
+         "name":"tutorial",
+         "type":"bool",
+         "value":true
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
